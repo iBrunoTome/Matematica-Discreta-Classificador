@@ -1,4 +1,4 @@
-# Classificador relação R sobre o produto cartesiano A × A
+# Classificador Relação R Sobre o Produto Cartesiano A × A
 
 Software capaz de processar um arquivo de entrada que especifica um relação R sobre o produto cartesiano A × A, onde A é um conjunto formado por números inteiros na faixa 1, . . . , N , com N informado no arquivo. Trabalho realizado no 3º período de Ciência da Computação no Instituto Federal de Minas Gerais (IFMG) - Campus Formiga para a disciplina de Algoritmos e Estrutura de Dados I (AED I).
 
